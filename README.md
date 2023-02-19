@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Ahtesham-Hashmi
+- 👋 Hi, I’m @Ahtesham-Hashmi a Data Analyst from India
+
+________________________________________________________________________________________________________________________________________________________________________
+
 - 👀 I’m interested in Data Science and Embedded Systems
 - 🌱 I’m currently learning Data Analysis and Data Vizualization 
 - 💞️ I’m looking to collaborate on Data Analysis Projects
