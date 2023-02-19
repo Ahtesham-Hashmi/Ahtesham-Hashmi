@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahtesham-Hashmi
 - 👀 I’m interested in Data Science and Embedded Systems
-- 🌱 I’m currently learning Data ANalysis and Data Vizualization 
+- 🌱 I’m currently learning Data Analysis and Data Vizualization 
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me ahtesham22396@gmail.com
 
