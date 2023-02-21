@@ -51,7 +51,7 @@ I also moonlight as a [yoga and meditation instructor](https://www.denacoduri.co
 - I have two pet rabbits, both adopted from animal shelters.
 
 ### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denacoduri/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-hashmi/)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/denacoduri) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denacoduri/) 
 [![Facebook](https://img.shields.io/badge/facebook-%2314354C.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/denacoduri/) 
@@ -77,4 +77,3 @@ urrently learning ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Footer
