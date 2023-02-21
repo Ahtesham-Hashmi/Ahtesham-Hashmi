@@ -47,7 +47,7 @@ I have recently completed my MBA in Business Analytics.
 - Reading [Survey Questions- Handcrafting the Standard Questionairre](https://www.amazon.com/Survey-Questions-Handcrafting-Standardized-Questionnaire/dp/0803927436) by Jean M. Converse and Stanley Presser
 
 ### 🦄 Fun Facts
-- I've been practicing yoga for 14 years, and teaching yoga for 7 years.
+- I enjoy playing chess and table tennis in my free time.
 - I stay in shape through CrossFit and the aerial arts.
 - I have two pet rabbits, both adopted from animal shelters.
 
