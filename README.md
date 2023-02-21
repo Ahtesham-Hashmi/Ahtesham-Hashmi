@@ -53,7 +53,7 @@ I have recently completed my MBA in Business Analytics.
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-hashmi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/denacoduri)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ahtesham_hashme)
 ![Gmail](https://img.shields.io/badge/ahtesham22396@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!--![Discord](https://img.shields.io/badge/Discord_denacoduri_1398-7289DA?style=for-the-badge&logo=discord&logoColor=white)--> 
 <!--[![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/denacoduri) -->
