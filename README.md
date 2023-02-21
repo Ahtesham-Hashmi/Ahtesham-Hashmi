@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 ## Hi, I’m [Ahtesham](https://www.-.com). 👋  
 
 ### 💁🏻‍♀️ About Me
-I'm a data analyst with a background in math education. 
-I also moonlight as a [yoga and meditation instructor](https://www.denacoduri.com/yoga).
+I'm a data analyst with a background in electronics engineering. 
+I also have experience in marketing and management.
+I have recently completed my MBA in Business Analytics.
 
 ### 🤖 My Skills
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
