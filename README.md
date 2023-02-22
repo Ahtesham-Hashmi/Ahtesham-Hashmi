@@ -62,6 +62,8 @@ I have recently completed my MBA in Business Analytics.
 <!--[![Facebook](https://img.shields.io/badge/facebook-%2314354C.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/denacoduri/)--> 
 <!--[![Spotify](https://img.shields.io/badge/spotify-%2314354C.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/willowny?si=00096f3cc41e49e1)-->
 
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=Ahtesham-Hashmi&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=Ahtesham-Hashmi&theme=gotham"/></td></tr></table>
+
 
 <!--
 **denacoduri/denacoduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
